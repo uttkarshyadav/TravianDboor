@@ -1,9 +1,10 @@
-שלום לכולם,
-אלו הקבצים שלי, לכל מיני בקשות, או תיקוני באגים, תעדכנו אותי ואני אנסה לעזור לכם.
+Hello everyone,
+these are my files, all kinds of requests, 
+or bug fixes, keep me posted and I'll try to help you
+Hope you enjoy, and these files are good files you had so far
+I update here, all the bug fixing or adding any system or something. 
+You can see the file, write what I did, and you will see this same page
 
-מקווה שתהנו, והקבצים האלו יהיו הקבצים הטובים שהיו לכם עד כה :D
+Thanks!!
 
-*
-אני מעדכן כאן, כל תיקון באג או הוספה של מערכת כלשהי או משהו כזה.
-תוכלו לראות בקובץ עצמו, כתוב מה עשיתי, 
-ותוכלו לראות בדף הזה בדיוק :D
+Uttkarsh Yadav
